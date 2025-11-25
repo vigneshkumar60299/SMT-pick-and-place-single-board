@@ -76,10 +76,12 @@ The working of the ETS SMT MATE-660 SMT pick and place machine follows a sequent
 # Output
 
 ## Bare PCB board
-
+![WhatsApp Image 2025-11-19 at 08 39 02_13fb5b45](https://github.com/user-attachments/assets/2983a906-7ac4-46ed-99ef-8abd9e3dbc30)
 
 ## Bare PCB board with components
+![WhatsApp Image 2025-11-19 at 08 40 04_08d62074](https://github.com/user-attachments/assets/78891459-a615-4311-8d1e-2208b659f071)
 
 
 # Result
+The SMT pick-and-place machine successfully identified, picked, and placed the SMD electronic components onto the bare PCB with high positional accuracy. Component alignment, orientation, and placement quality were consistent across all test points. Misplacements and rotation errors were minimal, demonstrating effective vision-assisted positioning and reliable nozzle performance. Overall, the experiment confirms that the pick-and-place machine achieves precise, repeatable, and fully automated component placement, making it suitable for high-quality SMT assembly.
 
